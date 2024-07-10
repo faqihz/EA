@@ -71,4 +71,16 @@
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_id-595772aa6e8444ae8e7bb41cf61ff0a3.xml#id-595772aa6e8444ae8e7bb41cf61ff0a3"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-7930640f52a9480890a1252a6e5ec889">
+    <bounds
+        x="606"
+        y="83"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Gap"
+        href="Gap_id-bd95ad2e64524c1880a158479da5ebf3.xml#id-bd95ad2e64524c1880a158479da5ebf3"/>
+  </children>
 </archimate:ArchimateDiagramModel>
